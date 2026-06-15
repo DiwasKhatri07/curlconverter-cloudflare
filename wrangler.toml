@@ -1,0 +1,9 @@
+name = "curl-converter"
+type = "javascript"
+main = "dist/public/index.html"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "curl-converter-production"
+route = "diwas.pro/*"
+zone_id = ""
