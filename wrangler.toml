@@ -1,4 +1,4 @@
-name = "curlconverter"
+name = "curlconverter-cloudflaree"
 main = "server/worker.ts"
 compatibility_date = "2024-04-01"
 
