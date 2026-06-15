@@ -1,0 +1,9 @@
+name = "curlconverter"
+main = "server/worker.ts"
+compatibility_date = "2024-04-01"
+
+[site]
+bucket = "./dist/public"
+
+[vars]
+NODE_ENV = "production"
